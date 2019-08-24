@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/Filsolu93/Constructor-Word-Guess.git#readme",
     "dependencies": {
+        "constructor-word-guess": "^1.0.1",
         "inquirer": "^5.2.0",
         "is-letter": "^1.1.1"
     }
